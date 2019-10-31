@@ -1,5 +1,5 @@
 # BlackJack_Game
-BlackJack Card Game in Python
+**BlackJack Card Game in Python**
 
 Blackjack is the American variant of a globally popular banking game known as Twenty-One. It is a comparing card game between one or more players and a dealer, where each player in turn competes against the dealer. Players do not compete against each other. It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world. The objective of the game is to beat the dealer in one of the following ways:
 
@@ -9,9 +9,9 @@ Blackjack is the American variant of a globally popular banking game known as Tw
 
 For more information [BlackJack](https://en.wikipedia.org/wiki/Blackjack)
 
-#Game Play
-To play a hand of Blackjack the following steps must be followed:
+**Game Play**
 
+Tasklist to follow in order to play a hand of BlackJack:
 - [ ] Create a deck of 52 cards
 - [ ] Shuffle the deck
 - [ ] Ask the Player for their bet
@@ -25,5 +25,5 @@ To play a hand of Blackjack the following steps must be followed:
 - [ ] Determine the winner and adjust the Player's chips accordingly
 - [ ] Ask the Player if they'd like to play again
 
-#Playing Cards
+**Playing Cards**
 A standard deck of playing cards has four suits (Hearts, Diamonds, Spades and Clubs) and thirteen ranks (2 through 10, then the face cards Jack, Queen, King and Ace) for a total of 52 cards per deck. Jacks, Queens and Kings all have a rank of 10. Aces have a rank of either 11 or 1 as needed to reach 21 without busting.
