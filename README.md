@@ -9,9 +9,8 @@ Blackjack is the American variant of a globally popular banking game known as Tw
 
 For more information [BlackJack](https://en.wikipedia.org/wiki/Blackjack)
 
-**Game Play**
-
-Tasklist to follow in order to play a hand of BlackJack:
+# Game Play
+**Tasklist to track the status of Project:**
 - [ ] Create a deck of 52 cards
 - [ ] Shuffle the deck
 - [ ] Ask the Player for their bet
