@@ -11,6 +11,7 @@ Blackjack is the American variant of a globally popular banking game known as Tw
 - Players win when their hand totals higher than dealer’s hand, or they have 21 or less when the dealer busts (i.e., exceeds 21)
 
 For more information [BlackJack](https://en.wikipedia.org/wiki/Blackjack)
+For Video demo click [here](https://www.youtube.com/watch?v=-9YGKFdP6sY)
 
 # Game Play
 **Tasklist to track the status of Project:**
