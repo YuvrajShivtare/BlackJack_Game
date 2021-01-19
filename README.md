@@ -16,7 +16,7 @@ For Video demo click [here](https://www.youtube.com/watch?v=-9YGKFdP6sY)
 
 # Game Play
 **Tasklist to track the status of Project:**
-- [y] Create a deck of 52 cards
+- [x] Create a deck of 52 cards
 - [x] Shuffle the deck
 - [x] Ask the Player for their bet
 - [x] Make sure that the Player's bet does not exceed their available chips
